@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # ASL3 Test Tone Toggle Installer
-# This Script was created by Freddie Mac - KD5FMU and ChaptGPT OpenAI
+# This Script was created by Freddie Mac - KD5FMU and ChaptGPT OpenAI - June 2026
 #
 # This installer creates:
 #   /etc/asterisk/local/test-tone.sh
